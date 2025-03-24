@@ -1,0 +1,11 @@
+Entrega do primeiro desafio de código onde foi solicitado a criação de um sistema bancário simples, onde devíamos construi 3 tipos de operações básicas:
+- Depósito
+- Saque 
+- Extrato
+
+Regras de negócio aplicadas ao projeto:
+- Numero máximo de saques diários: 3.
+- Limite máximo em reais por saque: 500 reais.
+- Validar para que não ocorra valores negativos.
+- O extrato deve fornecer todas as operações em tempo de execução.
+- Utilização da formatação moeda (R$) na representação dos valore.
